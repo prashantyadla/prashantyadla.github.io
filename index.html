@@ -7,6 +7,8 @@
 		<link rel="stylesheet" type="text/css" href="/main.css">
 	</head>
 	<body>
+<!--		<script type="text/javascript" src="action.js"></script>-->
+
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
@@ -17,7 +19,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1 id="hover">Hi there, I'm Prasanth Yadla!</h1>
+        		<h1 onmouseover="mouseOver();" id="hover">Hi there, I'm Prasanth Yadla!</h1>
 				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
@@ -27,5 +29,18 @@
         		<li><a href="https://github.com/prashantyadla">github.com/prashantyadla</a></li>
 			</ul>
 		</footer>
+
+<!--		<script>-->
+<!--			document.getElementById("hover").onmouseover = function() {mouseOver()};-->
+<!--			document.getElementById("hover").onmouseout = function() {mouseOut()};-->
+
+<!--			function mouseOver() {-->
+<!--				document.getElementById("hover").style.color = "red";-->
+<!--			}-->
+
+<!--			function mouseOut() {-->
+<!--				document.getElementById("hover").style.color = "black";-->
+<!--			}-->
+<!--		</script>-->
 	</body>
 </html>
