@@ -1,9 +1,9 @@
 function mouseOver() {
-    document.getElementById("hover").style.color = "red";
+    document.getElementById("hover").style.color = "blue";
 }
 
 function mouseOut() {
-    document.getElementById("hover").style.color = "black";
+    document.getElementById("hover").style.color = "red";
 }
 
 function myMove(){

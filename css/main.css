@@ -7,7 +7,7 @@ html,body{
 
 body {
     /*margin: 60px auto;*/
-    background-color: crimson;
+    background-color: rgb(10, 10, 10);
     overflow-y: scroll;
 }
 
@@ -34,11 +34,13 @@ a:hover {
 }
 
 h1 {
+    color: crimson;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
+    color:crimson;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
