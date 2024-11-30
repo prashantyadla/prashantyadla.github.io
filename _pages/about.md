@@ -11,7 +11,7 @@ I am a Senior Machine Learning Engineer at Apple, Inc in Seattle, WA, USA. My in
 
 Previously, I worked at Alexa AI in Amazon, Los Angeles on open-domain question answering problems.
 
-In the past, I’ve worked as a software engineer at Oracle Coorporation in Bangalore, India.
+In the past, I’ve worked as a software engineer at Oracle Corporation in Bangalore, India.
 
 I graduated with a Masters in Computer Science from North Carolina State University, Raleigh, USA. I also graduated with a double major in Computer Science and Physics from BITS Pilani, India as part of my undergraduate studues.
 
